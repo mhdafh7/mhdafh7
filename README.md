@@ -66,11 +66,9 @@ Other than mastering MERN stack right now, I'm looking into flutter and three js
 
 
 ## Github Stats  
-<table><tr><td valign="top" width="10%">
+<br/>
 
-</td>
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdafh7&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mhdafh7&hide_border=true&layout=compact" align="center" style="width: 70%" /></div>
 
 </td></tr></table>  
 
