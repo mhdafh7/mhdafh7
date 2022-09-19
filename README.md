@@ -1,9 +1,8 @@
 <div align="center">
-<img src="https://media.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" align="center" height="" width="600" />
+<img src="./Header.png" align="center" height="" width="1000" />
 </div>  
-  
 
-## <div align="center">👋, I'm Aflah</div>  
+# <div align="center"><br /><span style="font-size:1.5rem">👋 Hello there!</span><br/><br/> <span style="font-size:4rem"><b>I'm Aflah<span></div>  
   
 
 <div align="center">
