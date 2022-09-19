@@ -2,7 +2,7 @@
 <img src="./Header.png" align="center" height="" width="1000" />
 </div>  
 
-# <div align="center"><br /><span style="font-size:1.5rem">👋 Hello there!</span><br/><br/> <span style="font-size:4rem"><b>I'm Aflah<span></div>  
+# <div align="center"><b><br />👋 Hello there! I'm Aflah<span></div>  
   
 
 <div align="center">
