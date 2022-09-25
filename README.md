@@ -24,7 +24,7 @@
 
 
 ### Glad to see you here!  
-I'm a Full stack developer and UX designer. I design, create, and code all the things in between.
+I'm a Front-end developer and UX designer. I design, create, and code all the things in between.
 My passion is in front end, but I'm not afraid of backend. And am always looking for exciting opportunities..
 Other than mastering MERN stack right now, I'm looking into React Native and three js.  
   
