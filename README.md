@@ -82,5 +82,3 @@ Other than mastering MERN stack right now, I'm looking into React Native and thr
 
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
