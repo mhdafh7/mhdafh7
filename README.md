@@ -1,7 +1,3 @@
-<div align="center">
-<img src="./Header.png" align="center" height="" width="1000" />
-</div>  
-
 # <div align="center"><b><br />👋 Hello there! I'm Aflah<span></div>  
   
 
@@ -15,8 +11,8 @@
 <a href="https://linkedin.com/in/muhammed-aflah" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://dribbble.com/mhdafh" target="_blank">
-<img src=https://img.shields.io/badge/dribbble-%23E45285.svg?&style=for-the-badge&logo=dribbble&logoColor=white alt=dribbble style="margin-bottom: 5px;" />
+<a href="https://www.showwcase.com/mhdafh" target="_blank">
+<img src=https://img.shields.io/badge/showwcase-%2324292e.svg?&style=for-the-badge alt=showwcase style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
@@ -24,9 +20,9 @@
 
 
 ### Glad to see you here!  
-I'm a Front-end developer and UX designer. I design, create, and code all the things in between.
-My passion is in front end, but I'm not afraid of backend. And am always looking for exciting opportunities..
-Other than mastering MERN stack right now, I'm looking into React Native and three js.  
+My passion is in front end, but I'm not afraid of backend.
+Always looking for exciting opportunities.. 
+I'm looking into React Native and web3 as of now.
   
 
 <br/>  
@@ -54,10 +50,9 @@ Other than mastering MERN stack right now, I'm looking into React Native and thr
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
 <a href="https://webpack.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="Webpack" height="25" /></a>      
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="25" /></a>  
-</div>  
+<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>
+<a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>  
+</div>
 
 <br/>  
 
