@@ -25,7 +25,7 @@
 ### Glad to see you here!  
 My passion is in front end, but I'm not afraid of backend.
 Always looking for exciting opportunities.. 
-I'm looking into React Native and web3 as of now.
+I'm looking into React Native and Django as of now.
   
 
 <br/>  
