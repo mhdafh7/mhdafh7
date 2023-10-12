@@ -8,7 +8,7 @@
 <a href="https://www.showwcase.com/mhdafh" target="_blank">
 <img src=https://img.shields.io/badge/showwcase-%2324292e.svg?&style=for-the-badge alt=showwcase style="margin-bottom: 5px;" />
 </a> 
- <a href="https://www.mhdafh.codes" target="_blank">
+ <a href="https://www.mhdafh.tech" target="_blank">
 <img src=https://img.shields.io/badge/website-%2324298e.svg?&style=for-the-badge alt=website style="margin-bottom: 5px;" />
 </a> 
 </div>  
